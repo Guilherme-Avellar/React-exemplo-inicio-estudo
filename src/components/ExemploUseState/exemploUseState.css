@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+.comUse {
+    background-color: rgb(156, 255, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    width: fit-content;
+}
+
+.semUse {
+    background-color: rgb(254, 111, 111);
+    font-family: Arial, Helvetica, sans-serif;
+    width: fit-content;
+}
+button {
+    width: fit-content;
+}
